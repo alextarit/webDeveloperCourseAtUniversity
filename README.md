@@ -5,6 +5,8 @@ https://docs.google.com/document/d/1GIpG2DLEkV8i-3NLik0Ukm-l8PDnrj_LXPC3C7RVtlc/
 
 Основы семантической верстки(макет страницы)
 
+В директории содержится макет по пути lab1/example_layout от которого можно плясать(прежде всего потырить все у навбара)
+
 ## 2 лабораторная работа
 
 https://docs.google.com/document/d/1ZzEcrGFzNZoiK-yPx7ELwQiTHy9tKSbKjvifJKCYXP0/edit?usp=sharing
