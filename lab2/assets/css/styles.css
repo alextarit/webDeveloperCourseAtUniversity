@@ -440,53 +440,9 @@
   }
 
   /*=============== Места ===============*/
-.place__card, .place__img {
-    height: 230px;
-  }
   
-  .place__container {
-    grid-template-columns: repeat(2, max-content);
-    justify-content: center;
-  }
-  
-  .place__card {
-    position: relative;
-    overflow: var(--img-hidden);
-  }
-  
-  .place__card:hover .place__img {
-    transform: var(--img-scale);
-  }
-  
-  .place__img {
-    transition: var(--img-transition);
-  }
-  
-  .place__content, .place__title {
+  .place__title {
     color: var(--white-color);
-  }
-  
-  .place__content {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: .75rem .75rem 1rem;
-  }
-  
-  .place__rating {
-    align-self: flex-end;
-    display: flex;
-    align-items: center;
-  }
-  
-  .place__rating-icon {
-    font-size: .75rem;
-    margin-right: var(--mb-0-25);
   }
   
   .place__rating-number {
@@ -506,13 +462,20 @@
     font-size: var(--smaller-font-size);
     margin-bottom: var(--mb-1-25);
   }
-  
-  .place__button {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    padding: .75rem 1rem;
-  }
+
+    /*=============== Карусель ===============*/
+
+  /* Уменьшение размера карусели */
+.carousel {
+  max-width: 400px; 
+  margin: 0 auto; }
+
+/* Уменьшение размера изображений слайдов */
+.carousel-item img {
+  max-width: 100%; 
+  height: auto; 
+}
+
 
   /*=============== Следовать ===============*/
 .subscribe__bg {
@@ -535,6 +498,7 @@
     padding: .5rem;
     display: flex;
     justify-content: space-between;
+    border-radius: 10px;
   }
   
   .subscribe__input {
@@ -549,6 +513,7 @@
   }
 
 /*=============== FOOTER ===============*/
+
   
   .footer__title, 
   .footer__subtitle {
@@ -605,7 +570,7 @@
   
   .footer__terms-link:hover {
     color: var(--text-color);
-  }
+  }  
 
   /*=============== Медия запросы для более менее компьютерных экранов ===============*/
 
@@ -678,8 +643,7 @@
       margin-left: auto;
       margin-right: auto;
     }
-    .discover__container,
-    .place__container {
+    .discover__container {
       padding-top: 2rem;
     }
     .experience__overlay:nth-child(1) {
@@ -764,12 +728,6 @@
         }
         .video__description {
           padding: 0 8rem;
-        }
-        .place__container {
-          gap: 3rem 2rem;
-        }
-        .place__card, .place__img {
-          height: 263px;
         }
         .footer__content {
           justify-items: center;
