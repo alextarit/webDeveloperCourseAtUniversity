@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example lab1</title>
+    <link href="styles_example.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header>
+        <nav class="header">
+            <div class="logo"><a href="https://vkusnoitochka.ru"><img src="images_example/a1.png"
+                        style="width: 100px;" /></a></div>
+            <ul class="menu">
+
+                <!-- выпадающий список меню -->
+                <li class="dropdown"><span>Предметы</span>
+                    <ul class="features-menu">
+                        <li>
+                            <a href="#">Прдемет 1</a>
+                        </li>
+                        <li>
+                            <a href="#">Прдемет 2</a>
+                        </li>
+                        <li>
+                            <a href="#">Прдемет 3</a>
+                        </li>
+                    </ul>
+                </li>
+
+
+                <li>
+                    <a href="#">Домашняя</a>
+                </li>
+                <li>
+                    <a href="#">О нас</a>
+                </li>
+                <li>
+                    <a href="#">Для особо умных</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- основная секция-->
+
+    <main>
+        <article>
+            <header>
+                <h1>Семантическая верстка</h1>
+                <p>alextarit. Опубликовано 24-ого сентября.</p>
+            </header>
+            <!-- Бутафорская реклама -->
+            <aside class="advert">
+                <img src="some-advert-image.png" />
+            </aside>
+
+            <p>Это пример веб-страницы, на которой рассказывается про семантическую верстку.</p>
+        </article>
+
+        <article>
+            <article>
+                <header>
+                    <h1>Семантическая верстка</h1>
+                    <p> Опубликовано <time datetime="2020-12-5 15:00-0800">5-ого декабря</time></p>
+                </header>
+
+                <p>Это пример веб-страницы, на которой рассказывается про семантическую верстку.</p>
+                <p>Это было написано кем-то.</p>
+            </article>
+
+
+            <section>
+                <h2>Схема документа</h2>
+                <p>В HTML5 есть несколько секционных элементов, которые влияют на схему документа.</p>
+
+                <h3>Хэдеры</h3>
+                <p>Элемент <code><header></code> является одним из секционных элементов.</p>
+
+                <h3>Футеры</h3>
+                <p>Элемент <code><footer></code> тоже секционный.</p>
+            </section>
+
+            <section>
+                <h2>Строчная семантическая верстка</h2>
+                <p>Элемент <code><time></code> является семантическим, но при этом он не секционный.</p>
+            </section>
+        </article>
+    </main>
+
+    <footer>
+        <p>Это было написано кем-то из ИС2-Б20. Этот футер предназначен только для
+            элемента <code><article></code>.</p>
+        <address>
+            Можете связаться с нами тут <a href="mailto:alextarit@gmail.com">alextarit</a>.
+        </address>
+    </footer>
+
+
+</body>
+
+</html>
