@@ -13,3 +13,7 @@ https://docs.google.com/document/d/1ZzEcrGFzNZoiK-yPx7ELwQiTHy9tKSbKjvifJKCYXP0/
 https://github.com/alextarit/webDeveloperCourseAtUniversity/tree/main/lab2
 
 Исчерпывающий мини-курс по Bootstrap5: https://www.youtube.com/watch?v=kaLZgD-Ctss&list=PLD-piGJ3Dtl3qZFKzosT47lCCMEcqMK_L&index=1
+
+## 3 лабораторная работа
+
+https://docs.google.com/document/d/1-oHok6AB0z-RfnXA7zAWOwUJQM1hwcFza8Q6J8xQFlY/edit?usp=sharing
