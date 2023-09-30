@@ -55,3 +55,5 @@
     }
     // конец, когда видео закончилось
     videoFile.addEventListener('ended', finalVideo)
+
+    
