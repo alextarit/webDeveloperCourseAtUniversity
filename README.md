@@ -16,4 +16,12 @@ https://github.com/alextarit/webDeveloperCourseAtUniversity/tree/main/lab2
 
 ## 3 лабораторная работа
 
+Тут нужно понимание бразуерного окружения, остальное ничего не нужно из js, вот плейлист https://www.youtube.com/watch?v=DuWyc76lYC4
+
 https://docs.google.com/document/d/1-oHok6AB0z-RfnXA7zAWOwUJQM1hwcFza8Q6J8xQFlY/edit?usp=sharing
+
+## 4 лабораторная работа
+
+https://docs.google.com/document/d/17WUSpcokUgqAIwZHhKlb_rAjVw63CWLR3i5pz0OMReo/edit?usp=sharing
+
+Касательно использования jQuery, библиотека является устаревшей, поэтому никакого смысла ее разбирать не умеется. Лучший путь найти готовые функции, разобрать как работают и применить для свой страницы. Но ниже указан плейлист, чтобы не быть овощом сосвсем))) https://www.youtube.com/playlist?list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-
