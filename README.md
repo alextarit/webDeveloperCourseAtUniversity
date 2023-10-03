@@ -31,3 +31,11 @@ https://docs.google.com/document/d/17WUSpcokUgqAIwZHhKlb_rAjVw63CWLR3i5pz0OMReo/
 https://docs.google.com/document/d/1TwU9XLSXEJpD3XTWG2mPcoKqHqUC06TiRQoi3vBSCYM/edit?usp=sharing
 
 Для поиска использованы регулярные выражения, все требования выполнены(можно посмотреть как исползовать регулярные выржаения на youtube у них два синтаксиса)
+
+## 8 лабораторная работа(все измения происходили в child.html к нему создан файл child.js)
+
+https://docs.google.com/document/d/1inedMEjqxvPKwdnGcOfKoE2oaFeECFvGYDFIB9P26gY/edit?usp=sharing
+
+В помощь:
+1. Документация:https://www.chartjs.org
+2. Ютуб-канал: https://www.youtube.com/@ChartJS-tutorials
