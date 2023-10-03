@@ -25,3 +25,9 @@ https://docs.google.com/document/d/1-oHok6AB0z-RfnXA7zAWOwUJQM1hwcFza8Q6J8xQFlY/
 https://docs.google.com/document/d/17WUSpcokUgqAIwZHhKlb_rAjVw63CWLR3i5pz0OMReo/edit?usp=sharing
 
 Касательно использования jQuery, библиотека является устаревшей, поэтому никакого смысла ее разбирать не умеется. Лучший путь найти готовые функции, разобрать как работают и применить для свой страницы. Но ниже указан плейлист, чтобы не быть овощом сосвсем))) https://www.youtube.com/playlist?list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-
+
+## 6 лабораторная работа 
+
+https://docs.google.com/document/d/1TwU9XLSXEJpD3XTWG2mPcoKqHqUC06TiRQoi3vBSCYM/edit?usp=sharing
+
+Для поиска использованы регулярные выражения, все требования выполнены(можно посмотреть как исползовать регулярные выржаения на youtube у них два синтаксиса)
