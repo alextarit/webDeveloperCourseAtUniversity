@@ -39,3 +39,8 @@ https://docs.google.com/document/d/1inedMEjqxvPKwdnGcOfKoE2oaFeECFvGYDFIB9P26gY/
 В помощь:
 1. Документация:https://www.chartjs.org
 2. Ютуб-канал: https://www.youtube.com/@ChartJS-tutorials
+
+## 5 и 7 лабораторные работы
+https://docs.google.com/document/d/1RsL_U0ckjbsr0h05oe-P4pWsoQVqTj1FTKmewedIoEw/edit?usp=sharing
+https://docs.google.com/document/d/1bafEUZkm29paI8EIXyGr8eI5l-93GC2TrPDKQ3GDpkM/edit#heading=h.gjdgxs
+https://github.com/alextarit/TravelAgency-main
