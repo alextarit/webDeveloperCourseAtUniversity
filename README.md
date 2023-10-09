@@ -40,7 +40,7 @@ https://docs.google.com/document/d/1inedMEjqxvPKwdnGcOfKoE2oaFeECFvGYDFIB9P26gY/
 1. Документация:https://www.chartjs.org
 2. Ютуб-канал: https://www.youtube.com/@ChartJS-tutorials
 
-## 5 и 7 лабораторные работы
+## 5 и 7 лабораторные работы(использовано руководство для проекта cs340 Oregon State University https://github.com/osu-cs340-ecampus/nodejs-starter-app) 
 https://docs.google.com/document/d/1RsL_U0ckjbsr0h05oe-P4pWsoQVqTj1FTKmewedIoEw/edit?usp=sharing
 https://docs.google.com/document/d/1bafEUZkm29paI8EIXyGr8eI5l-93GC2TrPDKQ3GDpkM/edit#heading=h.gjdgxs
 https://github.com/alextarit/TravelAgency-main
@@ -54,3 +54,7 @@ https://github.com/alextarit/TravelAgency-main
 Если день доставки попадает на праздничный день, то доставка переносится на следующий
 день после праздника. Праздники передаются в качестве параметра в виде массива в
 формате: «месяц-день». Например, «01-01», «03-08».
+Примерно как это выглядит в браузере показано ниже
+
+<img width="938" alt="тк1" src="https://github.com/alextarit/webDeveloperCourseAtUniversity/assets/79465997/6b87a57c-87af-4be0-aa9b-05a2a6d22777">
+
