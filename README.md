@@ -44,3 +44,13 @@ https://docs.google.com/document/d/1inedMEjqxvPKwdnGcOfKoE2oaFeECFvGYDFIB9P26gY/
 https://docs.google.com/document/d/1RsL_U0ckjbsr0h05oe-P4pWsoQVqTj1FTKmewedIoEw/edit?usp=sharing
 https://docs.google.com/document/d/1bafEUZkm29paI8EIXyGr8eI5l-93GC2TrPDKQ3GDpkM/edit#heading=h.gjdgxs
 https://github.com/alextarit/TravelAgency-main
+
+## Контрольная работа(10 вариант)
+
+Вариант 10
+Написать функцию на языке JS, которая возвращает дату ближайшей доставки в
+формате «ХХ месяц». Например, «30 ноября». Алгоритм реализации следующий: если
+сегодня времени меньше, чем 20:00, то доставка завтра, если более 20:00, то послезавтра!
+Если день доставки попадает на праздничный день, то доставка переносится на следующий
+день после праздника. Праздники передаются в качестве параметра в виде массива в
+формате: «месяц-день». Например, «01-01», «03-08».
